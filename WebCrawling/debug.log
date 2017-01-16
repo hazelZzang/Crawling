@@ -1,0 +1,21 @@
+[0111/162757:ERROR:process_reader_win.cc(114)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다.  (0xc0000022)
+[0111/162757:ERROR:exception_snapshot_win.cc(87)] thread ID 7808 not found in process
+[0111/162757:WARNING:crash_report_exception_handler.cc(61)] ProcessSnapshotWin::Initialize failed
+[0111/170638:ERROR:process_reader_win.cc(114)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다.  (0xc0000022)
+[0111/170638:ERROR:exception_snapshot_win.cc(87)] thread ID 5760 not found in process
+[0111/170638:WARNING:crash_report_exception_handler.cc(61)] ProcessSnapshotWin::Initialize failed
+[0111/170640:ERROR:process_reader_win.cc(114)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다.  (0xc0000022)
+[0111/170640:ERROR:exception_snapshot_win.cc(87)] thread ID 7200 not found in process
+[0111/170640:WARNING:crash_report_exception_handler.cc(61)] ProcessSnapshotWin::Initialize failed
+[0111/170640:ERROR:process_reader_win.cc(114)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다.  (0xc0000022)
+[0111/170640:ERROR:exception_snapshot_win.cc(87)] thread ID 10556 not found in process
+[0111/170640:WARNING:crash_report_exception_handler.cc(61)] ProcessSnapshotWin::Initialize failed
+[0111/170640:ERROR:process_reader_win.cc(114)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다.  (0xc0000022)
+[0111/170640:ERROR:exception_snapshot_win.cc(87)] thread ID 7428 not found in process
+[0111/170640:WARNING:crash_report_exception_handler.cc(61)] ProcessSnapshotWin::Initialize failed
+[0111/172309:ERROR:process_reader_win.cc(114)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다.  (0xc0000022)
+[0111/172309:ERROR:exception_snapshot_win.cc(87)] thread ID 3252 not found in process
+[0111/172309:WARNING:crash_report_exception_handler.cc(61)] ProcessSnapshotWin::Initialize failed
+[0111/172309:ERROR:process_reader_win.cc(114)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다.  (0xc0000022)
+[0111/172309:ERROR:exception_snapshot_win.cc(87)] thread ID 8736 not found in process
+[0111/172309:WARNING:crash_report_exception_handler.cc(61)] ProcessSnapshotWin::Initialize failed
