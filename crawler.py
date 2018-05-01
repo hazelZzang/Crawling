@@ -1,14 +1,5 @@
 from selenium import webdriver
 import time
-import ctypes
-
-CF_TEXT = 1
-
-kernel32 = ctypes.windll.kernel32
-user32 = ctypes.windll.user32
-
-user32.OpenClipboard(0)
-
 
 browser = webdriver.Chrome('C://Users//20143//Desktop//chromedriver.exe')
 browser.get("https://basecamp.robolink.com/cwists/category#products=%5B1%5D&selected_sort_by=alphabetical")
